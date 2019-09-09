@@ -1,4 +1,4 @@
 # study
-This is some lesson note
+This is some lesson note.
 
-With Maven simple instructions
+With  simple lesson storage.
